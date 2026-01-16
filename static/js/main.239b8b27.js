@@ -17824,7 +17824,7 @@
                         children: y
                     }), _]
                 }))
-            })),
+            }));
             const Zi = function() {
                 return (0, h.jsx)("div", {
                     className: "container",
